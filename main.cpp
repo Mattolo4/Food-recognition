@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-    int faggots;
+    int balls = 0;
 }
