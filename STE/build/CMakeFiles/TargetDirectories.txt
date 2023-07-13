@@ -1,0 +1,8 @@
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/FProj.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/3DHist.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/testCanny.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/testBi.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/testKmeans.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/RemovePlates.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/edit_cache.dir
+/Users/stefanotrenti/Documents/COMPUTER_VISION/FINAL PROJECT/Food-recognition/Food-recognition/STE/build/CMakeFiles/rebuild_cache.dir
