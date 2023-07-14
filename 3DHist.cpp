@@ -8,7 +8,7 @@
 #include <vector>
 #include "Utilities.h"
 #include <cstdlib>
-#include <GL/glut.h>
+// #include <GL/glut.h>
 using namespace cv;
 using namespace std;
 
