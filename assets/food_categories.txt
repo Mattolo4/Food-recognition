@@ -1,0 +1,31 @@
+* Food categories.
+
+0. Background
+
+1. pasta with pesto
+2. pasta with tomato sauce
+3. pasta with meat sauce
+4. pasta with clams and mussels
+5. pilaf rice with peppers and peas
+
+6. grilled pork cutlet 8,17 30,130 0,255 (size of blobs 20)
+7. fish cutlet 12,15 53,247 140,255 (100)
+8. rabbit 8,24 122,255 0,220 
+9. seafood salad 2,19 64,255 0,255
+
+10. beans 0,8 70,255 0,255
+11. basil potatoes 16,24 39,255 (50)
+12. salad
+13. bread
+
+
+* Tray composition.
+
+tray1: pesto pasta, grilled pork cutlet, beans
+tray2: pasta with tomato sauce, fish cutlet, basil potatoes, salad
+tray3: tomato pasta, rabbit, salad
+tray4: pilaf rice with peppers and peas, fish cutlet, basil potatoes, salad, bread
+tray5: pasta with meat sauce, rabbit, beans, bread
+tray6: clam and mussel stir-fry, grilled pork chop, beans, salad
+tray7: pasta with clams and mussels, fish cutlet, basil potatoes, salad
+tray8: pasta with clams and mussels, seafood salad, basil potatoes, beans, salad

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\matte\Code\GitHub\Food recognition and leftover estimation\Food-recognition\build\CMakeFiles\5861c1a87a963ede4b71918adc9f7d9d\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C8AD4C06-F270-30F6-A78F-AF19433A23DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

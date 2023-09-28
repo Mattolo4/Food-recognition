@@ -1,0 +1,11 @@
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/Experimental.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/Nightly.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/Continuous.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/Detector_lib.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/Plate_rec.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/main.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/PACKAGE.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/matte/Code/GitHub/Food recognition and leftover estimation/Food-recognition/build/CMakeFiles/ZERO_CHECK.dir

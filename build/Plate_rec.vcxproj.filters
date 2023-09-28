@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\matte\Code\GitHub\Food recognition and leftover estimation\Food-recognition\Utilities\Plate_rec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\matte\Code\GitHub\Food recognition and leftover estimation\Food-recognition\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{024E47F9-3FF1-3531-90B2-CF1085266B9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
